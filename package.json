@@ -1,0 +1,24 @@
+{
+  "name": "ferramentas",
+  "version": "1.0.0",
+  "description": "Exercicio Renan criar marcas mundiais",
+  "homepage": "https://github.com/JohnTork/ferramentas#readme",
+  "bugs": {
+    "url": "https://github.com/JohnTork/ferramentas/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnTork/ferramentas.git"
+  },
+  "license": "ISC",
+  "author": "John Tork",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
